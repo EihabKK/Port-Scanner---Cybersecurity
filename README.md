@@ -1,5 +1,6 @@
 # Port-Scanner---Cybersecurity
 
+Note: This project is intended for educational purposes and may not be suitable for scanning networks without permission. Always ensure you have authorization before scanning any network.
 
 A simple Python-based port scanner that allows you to scan a range of ports on one or more target IP addresses to check their status. This project provides color-coded output to easily identify open and closed ports.
 
