@@ -8,7 +8,7 @@ A simple Python-based port scanner that allows you to scan a range of ports on o
 
 - **Single and Multiple Target Scanning**: Scan one or multiple IP addresses.
 - **Port Range Scanning**: Specify the number of ports to scan.
-- **Color-Coded Output**: Provides visual clarity for open and closed ports using colors.
+- **Color-Coded Output**: Provides visual clarity for open and closed ports using colours.
 
 ## Installation
 
