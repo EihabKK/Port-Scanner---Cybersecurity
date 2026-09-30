@@ -8,7 +8,7 @@
 
 
 import socket  # Import the socket module to enable network communication using TCP/IP protocol
-import termcolor  #Import termcolor for adding color to terminal output
+import termcolor  # Import termcolor for adding color to terminal output
 
 # Function to scan a range of ports on one or more target IP addresses
 def scan(targets, ports):
