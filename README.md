@@ -1,4 +1,4 @@
-# Port-Scanner----Cybersecurity
+# Port-Scanner---Cybersecurity
 
 Note: This project is intended for educational purposes and may not be suitable for scanning networks without permission. Always ensure you have authorization before scanning any network.
 
